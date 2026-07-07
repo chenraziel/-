@@ -1,0 +1,6 @@
+{
+  "name": "Apollo Solar Studio",
+  "description": "An interactive, ultra-polished DIY Solar Project Planner & Guide utilizing Apollo Power flexible solar film technology. Design custom layouts, calculate power yields, compare weights, and consult with our Smart AI Solar Advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
